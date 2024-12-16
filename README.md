@@ -1,5 +1,7 @@
 # RoboterArm
 
+Design, Idee und Umsetzung: @dgreiser 
+
 # Was machen wir?
 ## Step 1: Zusammenbauen
 Du baust aus Servomotoren, Gelenken und einem Greifer einen funktionierenden Roboterarm. Keine Sorge, wir erklären alles Schritt für Schritt.
