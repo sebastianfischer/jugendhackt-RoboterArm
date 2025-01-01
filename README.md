@@ -21,3 +21,5 @@ Für alle zwischen 12 und 18 Jahren, die Lust haben, mit Technik zu experimentie
 # Was brauchst du?
 Nichts außer Motivation! Wir stellen alles zur Verfügung, was du für den Workshop brauchst.
 
+
+[![See the robot arm in aktion](https://img.youtube.com/vi/oafrhNWhoxY/0.jpg)](https://www.youtube.com/watch?v=oafrhNWhoxY)
