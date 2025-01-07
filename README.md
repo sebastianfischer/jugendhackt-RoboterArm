@@ -23,3 +23,12 @@ Nichts außer Motivation! Wir stellen alles zur Verfügung, was du für den Work
 
 
 [![See the robot arm in aktion](https://img.youtube.com/vi/oafrhNWhoxY/0.jpg)](https://www.youtube.com/watch?v=oafrhNWhoxY)
+
+![](photos/IMG_6435.jpg)
+![](photos/IMG_6436.jpg)
+![](photos/IMG_6437.jpg)
+![](photos/IMG_6438.jpg)
+![](photos/IMG_6439.jpg)
+![](photos/IMG_6441.jpg)
+![](photos/IMG_6442.jpg)
+![](photos/IMG_6443.jpg)
